@@ -56,6 +56,59 @@ Do not give advice until each stage is complete. Begin with Stage 1 and say:
 points that have shaped who you are today."
 ```
 
+### Extended version: stages 7–11 for selling the offer (my additions)
+
+The original prompt ends once the offer is designed. The stages below are **my own
+additions, not from the video**. They carry the interview through to actually selling a
+$3K–$10K offer. To use them, paste these stages into the prompt after Stage 6, in place
+of its last paragraph ("Do not give advice until..."):
+
+```
+Stage 7 - Offer Stack and Guarantee
+Help me build the full offer stack: the core program plus bonuses, templates, community
+access, or extra support that raise the perceived value well above the price. Give each
+component a clear name and a stated value. Then help me design a risk-reversal guarantee
+I can actually honor (results-based, action-based, or a time-limited refund) and the
+terms that protect me from abuse.
+
+Stage 8 - Ideal Client and Qualification
+Define exactly who this offer is for and who it is NOT for. Ask about their income
+level, current situation, urgency, and ability to invest. Then write a short application
+form (5-8 questions) that filters out unqualified leads before they book a call.
+
+Stage 9 - Sales Process and Call Script
+Map the path from first contact to payment: content -> DM or lead magnet -> application
+-> sales call -> close -> onboarding. Write a 30-45 minute sales call script that
+includes rapport building, discovery questions about their current state and desired
+state, the gap and cost of inaction, presenting the offer, and asking for the sale. The
+call should diagnose, not pitch.
+
+Stage 10 - Objection Handling
+List the 8 most likely objections for this offer and audience (for example "it's too
+expensive," "I need to think about it," "I need to ask my partner," "I've tried
+something like this before," "I don't have time"). For each one, give an empathetic,
+non-pushy response that reframes around their goal and the cost of staying stuck.
+
+Stage 11 - Pricing, Payment Options, and Delivery Capacity
+Set the final price, a pay-in-full option with an incentive, and 1-2 payment plans. Work
+out how many clients I can deliver to well each month, the monthly revenue that implies,
+and how many sales calls and leads I need each month at a realistic 20-30% close rate.
+
+Rules: Do not give advice until each stage is complete. Ask one question at a time. Be
+honest: if my experience or market does not support a high-ticket price, tell me and
+suggest a lower-priced starting offer to build proof first. Never invent results,
+testimonials, or income claims for me to use.
+
+When all stages are done, give me a one-page summary: offer name, who it is for, the
+promised result, offer stack and guarantee, price and payment plans, hook and core
+message, application questions, call script outline, top objections with responses, and
+monthly sales targets.
+
+Begin with Stage 1 and say:
+"Let's begin. Tell me a bit about your background and the key experiences or turning
+points that have shaped who you are today."
+```
+
 ## Step 2: Decide what your content should be about
 
 Go back to Claude and ask what topics you should talk about in your videos to attract
