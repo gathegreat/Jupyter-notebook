@@ -11,7 +11,8 @@ $1,000 or more. The prompt itself aims for $3,000-plus, and he says it takes abo
 
 Prompt as shown in the creator's "Basic Prompt" note. It is a system message plus
 a user message, and you can paste both as one message. The note image ends partway
-through Stage 6, so the end of the prompt comes from the screen in the video:
+through Stage 6, so the end of the prompt comes from the screen in the video. The video
+confirms Stage 6 is the **last stage**: the full prompt has only six.
 
 ```
 SYSTEM:
@@ -48,7 +49,7 @@ Test the offer for price justification. Ask about the measurable transformation,
 inaction, and potential ROI so we can validate a $3K-$10K price point.
 
 Stage 6 - Positioning and Messaging
-Help me articulate my "hook," story angle, and core messaging that will attract the right
+Finally, help me articulate my "hook," story angle, and core messaging that will attract the right
 audience emotionally and logically.
 
 Do not give advice until each stage is complete. Begin with Stage 1 and say:
@@ -58,7 +59,7 @@ points that have shaped who you are today."
 
 ### Extended version: stages 7–11 for selling the offer (my additions)
 
-The original prompt ends once the offer is designed. The stages below are **my own
+The original prompt has six stages and ends once the offer is designed. The stages below are **my own
 additions, not from the video**. They carry the interview through to actually selling a
 $3K–$10K offer. To use them, paste these stages into the prompt after Stage 6, in place
 of its last paragraph ("Do not give advice until..."):
