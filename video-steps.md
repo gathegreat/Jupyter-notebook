@@ -7,7 +7,7 @@ audio plus the prompts shown on screen.
 
 Paste the prompt below into Claude. Claude then interviews you one question at a time
 and packages your skills, knowledge and experience into a product you can sell for
-$1,000 or more (the prompt itself aims for $3,000-plus) (he says it takes about 10 minutes).
+$1,000 or more. The prompt itself aims for $3,000-plus, and he says it takes about 10 minutes.
 
 Prompt as shown in the creator's "Basic Prompt" note. It is a system message plus
 a user message, and you can paste both as one message. The note image ends partway
