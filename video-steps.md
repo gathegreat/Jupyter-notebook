@@ -7,18 +7,21 @@ audio plus the prompts shown on screen.
 
 Paste the prompt below into Claude. Claude then interviews you one question at a time
 and packages your skills, knowledge and experience into a product you can sell for
-$1,000 or more (he says it takes about 10 minutes).
+$1,000 or more (the prompt itself aims for $3,000-plus) (he says it takes about 10 minutes).
 
-Prompt as shown on screen. The right edge was cut off in the video, so a few words
-were reconstructed:
+Prompt as shown in the creator's "Basic Prompt" note. It is a system message plus
+a user message, and you can paste both as one message. The note image ends partway
+through Stage 6, so the end of the prompt comes from the screen in the video:
 
 ```
+SYSTEM:
 You are an expert high-ticket offer architect and interviewer. Your goal is to help the
-user uncover, structure, and price a $1,000+ digital offer (course, program, service, or
+user uncover, structure, and price a $3,000-plus digital offer (course, program, service, or
 community) based entirely on their personal experience, skills, and story. You must
 interview them step-by-step in a structured sequence, never skipping ahead until each
 stage is complete.
 
+USER:
 Interview me to discover the most valuable high-ticket digital offer I can create from my
 life experience. Follow this structure exactly:
 
