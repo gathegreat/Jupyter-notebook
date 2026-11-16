@@ -1,0 +1,37 @@
+{
+  "check_interval_seconds": 120,
+
+  "streamers": [
+    {"name": "example_twitch", "platform": "twitch",  "url": "https://www.twitch.tv/example_twitch"},
+    {"name": "example_kick",   "platform": "kick",    "url": "https://kick.com/example_kick"},
+    {"name": "example_yt",     "platform": "youtube", "url": "https://www.youtube.com/@example/live", "channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx"}
+  ],
+
+  "twitch":  {"client_id": "", "client_secret": ""},
+  "kick":    {"client_id": "", "client_secret": ""},
+  "youtube": {"api_key": ""},
+
+  "discord": {
+    "bot_token": "",
+    "channel_id": 0,
+    "approver_user_ids": []
+  },
+
+  "postforme": {
+    "api_key": "",
+    "social_account_ids": [],
+    "caption_template": "{streamer} on GTA 😂 #gta #gta6 #{streamer} #clips"
+  },
+
+  "clips": {
+    "chunk_seconds": 600,
+    "lead_seconds": 40,
+    "tail_seconds": 15,
+    "max_clips_per_chunk": 3,
+    "min_score": 2.5,
+    "min_gap_seconds": 90,
+    "chat_delay_seconds": 5,
+    "weights": {"audio": 0.6, "chat_rate": 1.0, "emotes": 0.8},
+    "vertical": true
+  }
+}
